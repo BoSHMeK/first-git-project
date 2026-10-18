@@ -1,2 +1,3 @@
-print ('hello world')
-NET
+import cowsay
+
+cowsay.cow('пенис')
